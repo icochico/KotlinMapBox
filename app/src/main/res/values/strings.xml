@@ -1,3 +1,4 @@
 <resources>
     <string name="app_name">KotlinMapBox</string>
+    <string name="app_access_token"></string>
 </resources>
